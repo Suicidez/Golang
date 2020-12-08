@@ -1,0 +1,7 @@
+{
+    "WorkingDir": "{GOPATH}/src/github.com/ewallet",
+    "SourceDir": [
+        "{GOPATH}/src/github.com/ewallet"
+    ],
+    "SourceExt": [".go"]
+}
